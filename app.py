@@ -1,5 +1,6 @@
-Import streamlit as st
+import streamlit as st
 st.title('Dame dinero, dijo el doctor')
 🤑
-st.button('Dinerodinerodinero')
+st.sidebarbutton('Dinerodinerodinero')
+st.ballons()
 
